@@ -7,7 +7,7 @@ Aquí se mantienen los datos 🗂️ de fuentes oficiales en formato reproducibl
 ``'dge/'``
 + **Dirección General de Epidemiología** - Los archivos en esta carpeta contiene los reportes diarios referente a los casos asociados a COVID-19 publicados por la [Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127) a partir de ``2020-04-12``. Los datos se obtienen mediante ``zip`` el día de su publicación, o accediendo la base de datos histórica, que contiene los archivos en formato ``csv``.
   + Notas
-    + _2020-04-30_ - La base de datos ahora incluye la variable ``Identificador``, la cual es única y aleatoria para cada caso.
+    + _2020-04-30_ - La base de datos ahora incluye la variable ``ID_REGISTRO``, la cual es única y aleatoria para cada caso.
     + _2020-04-21_ - A partir de este reporte, puede ser que el campo que reporta más acertadamente dónde se realizó la prueba, es ``ENTIDAD_RES`` y no ``ENTIDAD_UM``.
     + _2020-04-12_ - El campo de ``ID_REGISTRO`` no es un identificador único.
 
