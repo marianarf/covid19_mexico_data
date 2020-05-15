@@ -1,6 +1,6 @@
 # covid19_mexico_data
 
-Aquí se mantienen los datos 🗂️ de fuentes oficiales en formato reproducible para facilitar el análisis del progreso de COVID-19 en México 🦠🇲🇽. Análisis, series de tiempo y gráficas aquí: [marianarf/covid19_mexico_data](https://github.com/marianarf/covid19_mexico_data).
+Aquí se mantienen los datos 🗂️ de fuentes oficiales en formato reproducible para facilitar el análisis del progreso de COVID-19 en México 🦠🇲🇽. Análisis, series de tiempo y gráficas aquí: [marianarf/covid19_mexico_analysis](https://github.com/marianarf/covid19_mexico_analysis).
 
 ### Fuentes 📈📈📈
 
